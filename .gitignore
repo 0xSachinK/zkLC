@@ -1,6 +1,8 @@
 node_modules/
 */node_modules/
 
+/client/.next/
+
 .env
 yarn-error.log
 
